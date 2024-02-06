@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\RadiopButtons\RadiopButtons\bin\Debug\RadiopButtons.exe.config
+C:\Users\Korisnik\source\repos\RadiopButtons\RadiopButtons\bin\Debug\RadiopButtons.exe
+C:\Users\Korisnik\source\repos\RadiopButtons\RadiopButtons\bin\Debug\RadiopButtons.pdb
+C:\Users\Korisnik\source\repos\RadiopButtons\RadiopButtons\obj\Debug\RadiopButtons.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\RadiopButtons\RadiopButtons\obj\Debug\RadiopButtons.Form1.resources
+C:\Users\Korisnik\source\repos\RadiopButtons\RadiopButtons\obj\Debug\RadiopButtons.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\RadiopButtons\RadiopButtons\obj\Debug\RadiopButtons.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\RadiopButtons\RadiopButtons\obj\Debug\RadiopButtons.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\RadiopButtons\RadiopButtons\obj\Debug\RadiopButtons.exe
+C:\Users\Korisnik\source\repos\RadiopButtons\RadiopButtons\obj\Debug\RadiopButtons.pdb
